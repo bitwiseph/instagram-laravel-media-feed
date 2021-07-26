@@ -1,0 +1,19 @@
+{
+    "name": "bitwiseph/instagram-media",
+    "description": "Get a posts from instagram account",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Job Ferrera",
+            "email": "bitwiseph.tech@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bitwiseph\\InstagramMedia\\": "src/"
+        }
+    }
+}
