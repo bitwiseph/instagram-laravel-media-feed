@@ -11,6 +11,8 @@ Supports Instagram Video and Signed Header.
 - Registered Instagram App via Facebook Developers
 
 # ENV
+Setup your env file with the following:
+
 - INSTAGRAM_APP_ID=
 - INSTAGRAM_APP_SECRET=
 - INSTAGRAM_APP_REDIRECT_URI=
