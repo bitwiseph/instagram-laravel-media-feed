@@ -1,4 +1,4 @@
-# Grab Instagram media posts API to your custom website
+# Grab Instagram media posts to your custom website
 It's a Laravel package which pulls instagram user posts to your website.
  
 ## Requirements 
@@ -42,8 +42,9 @@ To use the Instagram API you have to register yourself as a developer at the [Fa
 Run the following php artisan command:
 
 php artisan vendor:publish --tag=bitwiseph-instagram
-
-This command will create a config file and vendor file
+```
+```html
+This command will create a config file and vendor file for customization (for customization)
 ```
 # Customize the view
 ```javascript
