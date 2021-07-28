@@ -42,8 +42,13 @@ To use the Instagram API you have to register yourself as a developer at the [Fa
 Run the following php artisan command:
 
 php artisan vendor:publish --tag=bitwiseph-instagram
-```
 
+This command will create a config file and vendor file
+```
+# Customize the view
+```javascript
+Go to resources/views/vendor/bitwiseph/instagram-feed/index.blade.php if you would want to edit the design
+```
 
 ## Give it a try
 ```php
@@ -51,6 +56,9 @@ Run:
 php artisan serve
 ```
 Click [here](http://127.0.0.1:8000/instagram/posts) after executing the php artisan serve
+
+
+
 
 ### Legacy Version Support
 PHP 5.4 & 5.5
