@@ -6,7 +6,7 @@ Supports Instagram Video and Signed Header.
  
 # Requirements
 - Laravel 5.8 or higher
-- PHP 5.4 or higher
+- PHP 7.2 or higher
 - cURL
 - Registered Instagram App via Facebook Developers
 
