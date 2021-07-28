@@ -5,7 +5,14 @@ Composer package available.
 Supports Instagram Video and Signed Header.
  
 # Requirements
-- Laravel
+- Laravel 5.8 or higher
 - PHP 5.4 or higher
 - cURL
-- Registered Instagram App
+- Registered Instagram App via Facebook Developers
+
+# ENV
+- INSTAGRAM_APP_ID=
+- INSTAGRAM_APP_SECRET=
+- INSTAGRAM_APP_REDIRECT_URI=
+- INSTAGRAM_ACCESS_TOKEN=
+- INSTAGRAM_USER_ID=
