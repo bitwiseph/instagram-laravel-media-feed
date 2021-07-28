@@ -23,7 +23,7 @@ Goto to config/app.php under providers array (this is not neccesary to Laravel 5
 
 
 ## ENV
-Setup your env file with the following:
+Setup your .env file with the following:
 ```python
 INSTAGRAM_APP_ID=
 INSTAGRAM_APP_SECRET=
