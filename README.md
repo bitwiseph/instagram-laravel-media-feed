@@ -47,7 +47,8 @@ This command will create a config file and vendor file
 ```
 # Customize the view
 ```javascript
-Go to resources/views/vendor/bitwiseph/instagram-feed/index.blade.php if you would want to edit the design
+If you would prefer to edit the UI go to:
+resources/views/vendor/bitwiseph/instagram-feed/index.blade.php 
 ```
 
 ## Give it a try
