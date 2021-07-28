@@ -1,4 +1,4 @@
-# Instagram Media Feed
+# Grab Instagram media posts to you custom website
 It's a Laravel package which pulls instagram user posts to your website.
 
 Composer package available.
