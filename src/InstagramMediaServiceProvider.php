@@ -11,6 +11,9 @@ class InstagramMediaServiceProvider extends  ServiceProvider
         $this->publishes([
             __DIR__ .'/config/bitwiseph.php' => config_path('bitwiseph.php')
         ],'bitwiseph-instagram');
+        $this->publishes([
+            __DIR__ .'/views/index.blade.php' => resources_path('views/vendor/bitwiseph/instagram-media/index.blade.php')
+        ],'bitwiseph-instagram');
 
     }
 
